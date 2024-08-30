@@ -1,9 +1,15 @@
 # Personal-Financial-Management-System
 Tên đề tài : Ứng Dụng Quản Lý Tài Chính Cá Nhân
 
-• Sản phẩm là một ứng dụng quản lý tài chính cá nhân dành cho người dùng cá nhân muốn kiểm soát chi tiêu và tối ưu hóa tài chính của mình.
-
-• Các chức năng (Use Cases):
+Sản phẩm là một ứng dụng quản lý tài chính cá nhân dành cho người dùng cá nhân muốn kiểm soát chi tiêu và tối ưu hóa tài chính của mình.
+Sản phẩm hướng đến nhiều đối tượng:
+ • Người dùng cá nhân từ 18-40 tuổi
+ • Sinh viên, người mới đi làm, và các gia đình trẻ
+ • Những người muốn quản lý tài chính một cách có tổ chức và dễ dàng, nhưng không có nhiều kinh nghiệm hoặc thời gian để thực hiện việc này thủ công
+Tại sao sản phẩm này lại hấp dẫn và đáng để xây dựng?
+ • Đơn giản và dễ sử dụng: Không giống như các ứng dụng tài chính phức tạp khác, sản phẩm này tập trung vào sự đơn giản và dễ dàng, giúp người dùng theo dõi tài chính mà không cần kiến thức chuyên sâu.
+ • Giải pháp thực tế: Nó giải quyết trực tiếp nhu cầu quản lý tài chính cá nhân của một lượng lớn người dùng, đặc biệt là trong thời đại chi tiêu không dùng tiền mặt ngày càng tăng.
+Các chức năng (Use Cases):
 
  1.Đăng ký/Đăng nhập: Cho phép người dùng tạo tài khoản mới hoặc đăng nhập vào tài khoản hiện có.
  
@@ -19,7 +25,7 @@ Tên đề tài : Ứng Dụng Quản Lý Tài Chính Cá Nhân
  
  7.Nhắc nhở thanh toán: Hệ thống sẽ gửi nhắc nhở cho người dùng về các khoản thanh toán hoặc hóa đơn sắp đến hạn.
  
-• Công nghệ tài nguyên :
- - Thiết kế UI/UX: Figma hoặc Adobe XD để thiết kế giao diện người dùng.
- - HTML, CSS , Javasript.
- - Cơ sở dữ liệu mySQL.
+Công nghệ tài nguyên :
+ •Thiết kế UI/UX: Figma hoặc Adobe XD để thiết kế giao diện người dùng.
+ •HTML, CSS , Javasript.
+ •Cơ sở dữ liệu mySQL.
